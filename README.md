@@ -12,7 +12,7 @@ Length of time that bikes are checked out for all riders and genders
 
 ![image](https://user-images.githubusercontent.com/96396696/162558083-cf14cfb9-eb29-4041-a883-8a7dfe2e7956.png)
 
-This line graph shows that most bikes are rented between 0 and 60 minutes for all genders and user types. The first thing you will notice is that more men rent bikes than women and the unknown gender. Additionally, over 10,000 men rent bikes for about 5 minutes and then after that, the rental time tapers down. 
+This line graph shows that most bikes are rented between 0 and 60 minutes disagreggated by gender. The first thing you will notice is that more men rent bikes than women and the unknown gender. Additionally, over 10,000 men rent bikes for about 5 minutes and then after that, the rental time tapers down. 
 
 Show the number of bike trips for all riders and genders for each hour of each day of the week
 
