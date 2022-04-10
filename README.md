@@ -31,3 +31,8 @@ Finally, you’ll add these new visualizations to the two you created in this mo
 
 Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
+From this data analysis, we can conclude that a majority of riders are male, folllowed by females, and then those who did not identify their gender. Additionally, most users rent their bikes for less than one hour. Unsurprisingly, the heat map helps us to understand that most people are renting early in the morning before work and after work. 
+
+The additional analysis I would suggest is looking at the time of day users who rent their bikes for 0-30 minutes. After narrowing down on this subset of riders, I would use the coordinates to triangulate which stations riders are renting from in the mornings between 6a,-9am and in the evenings 5-7pm. Furthermore, I would disaggregate this data not by gender but rather by usertype. 
+
+This information will be usefull for the business because they will be able to identify hotspots and ensure that they are prioritizing and servicing those bikes in frequently visited stations. Furthermore, prioritization can be given to stations which service more subscribers vs customers. Additionally, narrowing down on these stations will help the company make future decisions related to cost/benefit of having bikes at certain stations and/or transferring bikes to key locations. 
